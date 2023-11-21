@@ -17,7 +17,7 @@ assignees: ''
 
 ## Steps to Duplicate
 
-<!-- Steps to reproduce the behavior. -->
+<!-- Steps to reproduce the behaviour. -->
 
 ## Current Result
 
